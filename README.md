@@ -11,6 +11,5 @@ Funcionalidades extras implementadas:
   - Tratamento dos estados de carregamento e de erros.
 
 # Prints da aplicação
+<img width="1080" height="2280" alt="Screenshot_1774924477" src="https://github.com/user-attachments/assets/3b9028f2-9988-4a77-82c1-6b338aac002f" />
 <img width="1080" height="2280" alt="Screenshot_1774924442" src="https://github.com/user-attachments/assets/d8d1fbcd-0d2e-4a92-b6ec-9c9bb4e8ab7e" />
-<img width="1080" height="2280" alt="Screenshot_1774924474" src="https://github.com/user-attachments/assets/48044777-f7b2-4178-970a-ed5b8ebf189f" />
-<img width="1080" height="2280" alt="Screenshot_1774924442" src="https://github.com/user-attachments/assets/ef99999b-e22d-430f-b1c6-b0895f8caf4e" />
